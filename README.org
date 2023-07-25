@@ -1,0 +1,10 @@
+* cl-syslog
+
+Syslog logging library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mmaul/cl-syslog.git   |
+| commit  | d5d46f7  |
+| systems | cl-syslog |
+|---------+-------------------------------------------|
+
